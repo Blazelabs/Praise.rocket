@@ -1,1 +1,1 @@
-<img src="smiley.gif">
+<img src="Frame (5).png">
